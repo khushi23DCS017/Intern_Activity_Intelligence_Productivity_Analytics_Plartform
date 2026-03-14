@@ -1,0 +1,21 @@
+# Core
+python-dotenv>=1.0.0
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.6
+
+# LangChain (compatible versions to avoid _DirectlyInjectedToolArg error)
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-groq>=0.2.0
+
+# Database
+psycopg2-binary>=2.9.0
+sqlalchemy>=2.0.0
+
+# Data & visualization
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+matplotlib>=3.7.0
+wordcloud>=1.9.0
