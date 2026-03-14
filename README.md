@@ -1,1 +1,1 @@
-# ntern-Activity-Intelligence-Productivity-Analytics-Plartform
+# Intern-Activity-Intelligence-Productivity-Analytics-Plartform
