@@ -1,0 +1,14 @@
+{
+    "Productivity_Regression": {
+        "Train_Size": 32,
+        "Test_Size": 8,
+        "MAE": 3.8907,
+        "MSE": 21.2912,
+        "R2_Score": 0.9926,
+        "Accuracy_Percentage": "99.26%"
+    },
+    "Intern_Segmentation_KMeans": {
+        "Silhouette_Score": 0.7368,
+        "Davies_Bouldin_Index": 0.3271
+    }
+}

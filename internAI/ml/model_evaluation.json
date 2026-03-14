@@ -1,0 +1,18 @@
+{
+    "At_Risk_Classification": {
+        "Train_Size": 32,
+        "Test_Size": 8,
+        "Accuracy": 0.875,
+        "Accuracy_Percentage": "87.5%",
+        "ROC_AUC": 1.0,
+        "CV_Accuracy_Mean": 0.925,
+        "CV_Accuracy_Std": 0.0612,
+        "Feature_Importance": {
+            "active_days": 0.0841,
+            "number_of_activities": 0.2983,
+            "tech_count": 0.0,
+            "hours_spent": 0.2193,
+            "avg_score": 0.3983
+        }
+    }
+}
